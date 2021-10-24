@@ -1,4 +1,4 @@
-# Welkompagina Companion App
+# Companion App
 Verbeter de toegankelijkheid van de Companion App van mijnHvA Student.
 
 ## Context
