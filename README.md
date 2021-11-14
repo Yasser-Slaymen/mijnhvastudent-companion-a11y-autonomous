@@ -2,7 +2,7 @@ mijnhvastudent-companionapp
 
 ## Beschrijving
 <https://yassercompanionapp.student.fdnd.nl/>
-![scherm opname](imges/Schermopname(156).png)
+![scherm opname](https://github.com/Yasser-Slaymen/mijnhvastudent-companion-a11y-autonomous/blob/main/imges/homimag.png)
 <!-- Voeg een mooie poster visual toe 📸 -->
 
 ## Inhoudsopgave
